@@ -1,5 +1,5 @@
 # Ada Library Wishlist
-Wishlist for Ada programming language libraries
+Wishlist for Ada programming language libraries, something you would like to see available in Alire - Ada Library Repository. Ordered in increasing effort level. First ones are relatively easy and so on.
 
 ## Level 1 - existing Ada libraries without Alire packaging
 
