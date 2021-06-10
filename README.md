@@ -19,7 +19,6 @@ Submit your's to me by email (heharkon@iki.fi) or by PR.
 * Cross-platform tab-completion
 * Less verbose (to write) unit testing, i.e. tests based on naming conventions for example
 * Maybe, Result, and Either types 
-  * Comments from Alejandro R Mosteo:
-    * You need definite/indefinite alternatives if you don't want to default to heap use.
-    * The moment you need to map between types, dot notation doesn't work
+  * You need definite/indefinite alternatives if you don't want to default to heap use.
+  * The moment you need to map between types, dot notation doesn't work
 * A library to generate semantic version comparisons between .ads files to provide information about "this really is a major bump" or "this is a minor bump"
